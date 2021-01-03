@@ -1,0 +1,7 @@
+C:\Users\olive\source\repos\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.exe.config
+C:\Users\olive\source\repos\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.exe
+C:\Users\olive\source\repos\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.pdb
+C:\Users\olive\source\repos\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.exe
+C:\Users\olive\source\repos\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.pdb
